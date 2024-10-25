@@ -12,6 +12,6 @@ NTA2018_Brasil_Educ.xlsx: Spreadsheets containing detailed NTA data across age g
 
 When using these datasets in academic research or other projects, please cite the original articles:
 
-Correa, C.; Gutierrez, C.; Turra, C. Demographic changes and intergenerational reallocations in Brazil, 2003-2018. The Journal of the Economics of Ageing.
+Correa, C.; Gutierrez, C.; Turra, C. Demographic changes and intergenerational reallocations in Brazil, 2003-2018. The Journal of the Economics of Ageing. (forthcoming)
 
-Correa, C; Gutierrez, C. Educational inequality over the economic life cycle. Notas de Población. 
+Correa, C; Gutierrez, C. Educational inequality over the economic life cycle. Notas de Población. (forthcoming)
