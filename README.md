@@ -2,10 +2,13 @@
 
 This repository provides datasets of National Transfer Accounts (NTA) for Brazil derived from two academic articles, each rigorously following the United Nations 2013 NTA Manual guidelines. These results are aligned with Brazil's National Accounts statistics from the Brazilian Institute of Geography and Statistics (IBGE), ensuring consistency between the two frameworks.
 
-Contents
+## Contents
 
 NTA_Brasil.xlsx:          Spreadsheets containing detailed NTA data across age groups (0-90+) in 2003 and 2018.
+
 NTA2018_Brasil_Educ.xlsx: Spreadsheets containing detailed NTA data across age groups (0-90+) and educational levels (primary, secondary, post-secondary) in 2018.
+
+## Usage and citation
 
 When using these datasets in academic research or other projects, please cite the original articles:
 
