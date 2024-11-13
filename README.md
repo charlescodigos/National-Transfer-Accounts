@@ -10,7 +10,7 @@ NTA_Brasil.xlsx:          Spreadsheets containing detailed NTA data across age g
 
 NTA2018_Brasil_Educ.xlsx: Spreadsheets containing detailed NTA data across age groups (0-90+) and educational levels (total, up to primary, secondary, post-secondary) in 2018.
 
-PDFs files: Formal charts used on articles.
+PDFs files: Formal charts used in the articles.
 
 ## Usage and citation
 
