@@ -4,9 +4,13 @@ This repository provides datasets of National Transfer Accounts (NTA) for Brazil
 
 ## Contents
 
+InfoGraphics folder: Data visualizations in a friendly and informal way, based on our results.
+
 NTA_Brasil.xlsx:          Spreadsheets containing detailed NTA data across age groups (0-90+) in 2003 and 2018.
 
 NTA2018_Brasil_Educ.xlsx: Spreadsheets containing detailed NTA data across age groups (0-90+) and educational levels (total, up to primary, secondary, post-secondary) in 2018.
+
+PDFs files: Formal charts used on articles.
 
 ## Usage and citation
 
