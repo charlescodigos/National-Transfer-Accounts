@@ -8,9 +8,11 @@ This repository provides datasets of National Transfer Accounts (NTA) for Brazil
 
 **NTA2018_Brasil_Educ.xlsx**: Spreadsheets containing detailed NTA data across age groups (0-90+) and educational levels (total, primary, secondary, post-secondary) in 2018.
 
+**Pop Revision 2018.xlsx**: Population estimation and projection Revision 2018 from IBGE.
+
 **Auxiliary.xlsx**: Auxiliary tables between 2003 and 2018 (in current values) associated with tables 4.15, 4.16, 4.17 and 4.19 in the UN 2013 Manual.
 
-**Pop Revision 2018.xlsx**: Population estimation and projection Revision 2018 from IBGE.
+**NTA_SNA.xlsx**: Comparasion between primary income account in the National Accounts and National Transfer Accounts from 2003 to 2018.
 
 **Infographics**: Friendly data visualization, based on our results.
 
