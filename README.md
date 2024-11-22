@@ -20,4 +20,4 @@ When using these datasets and information in academic research or other projects
 
 Correa, C.; Gutierrez, C.; Turra, C. Demographic changes and intergenerational reallocations in Brazil, 2003-2018. The Journal of the Economics of Ageing. (forthcoming)
 
-Correa, C; Gutierrez, C.; Turra, C. Educational inequality over the economic life cycle. Notas de Población. (forthcoming)
+Correa, C; Gutierrez, C.; Turra, C. National transfer accounts by education in Brazil: new estimates for 2018. Notas de Población. (forthcoming)
