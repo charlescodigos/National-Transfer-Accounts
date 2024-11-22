@@ -12,7 +12,7 @@ This repository provides datasets of National Transfer Accounts (NTA) for Brazil
 
 **NTA2018_Brasil_Educ.xlsx**: Spreadsheets containing detailed NTA data across age groups (0-90+) and educational levels (total, primary, secondary, post-secondary) in 2018.
 
-**Auxiliary.xlsx**: Auxiliary tables for macro controls estimation between 2003 and 2018, including "SNA Other current transfers", "Other current transfers excluding current transfer within government and current international cooperation" and "Other current transfers excluding current transfers within government and current international cooperation". These tables correspond to Table 4.15, Table 4.16, Table 4.17 and Table 4.19 in the UN 2013 Manual, respectively.
+**Auxiliary.xlsx**: Auxiliary tables between 2003 and 2018 associated with tables 4.15, 4.16, 4.17 and 4.19 in the UN 2013 Manual.
 
 
 ## Usage and citation
