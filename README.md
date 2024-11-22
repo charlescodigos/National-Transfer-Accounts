@@ -4,7 +4,7 @@ This repository provides datasets of National Transfer Accounts (NTA) for Brazil
 
 ## Contents
 
-**InfoGraphics**: Friendly data visualization, based on our results.
+**Infographics**: Friendly data visualization, based on our results.
 
 **Figures**: Formal charts and table used in the articles.
 
