@@ -10,7 +10,7 @@ This repository provides datasets of National Transfer Accounts (NTA) for Brazil
 
 **Auxiliary.xlsx**: Auxiliary tables between 2003 and 2018 (in current values) associated with tables 4.15, 4.16, 4.17 and 4.19 in the UN 2013 Manual.
 
-**IBGE Pop Revision 2018.xlsx**: Population estimation and projection Revision 2018 from the Brazilian Statistics and Geographic Institute (IBGE).
+**Pop Revision 2018.xlsx**: Population estimation and projection Revision 2018 from IBGE.
 
 **Infographics**: Friendly data visualization, based on our results.
 
