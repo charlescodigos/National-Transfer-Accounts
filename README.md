@@ -12,7 +12,7 @@ This repository provides datasets of National Transfer Accounts (NTA) for Brazil
 
 **Auxiliary.xlsx**: Auxiliary tables between 2003 and 2018 (in current values) associated with tables 4.15, 4.16, 4.17 and 4.19 in the UN 2013 Manual.
 
-**NTA_SNA.xlsx**: Comparasion between primary income account in the National Accounts and National Transfer Accounts from 2003 to 2018.
+**NTA_SNA.xlsx**: Comparison between primary income account in the National Accounts and National Transfer Accounts from 2003 to 2018.
 
 **Infographics**: Friendly data visualization, based on our results.
 
