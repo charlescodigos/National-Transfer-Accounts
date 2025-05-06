@@ -24,6 +24,6 @@ This repository provides datasets of National Transfer Accounts (NTA) for Brazil
 
 When using these datasets and information in academic research or other projects, please cite the original articles:
 
-Correa, C.; Gutierrez, C.; Turra, C. 2025. Demographic changes and intergenerational reallocations in Brazil, 2003-2018. The Journal of the Economics of Ageing. (forthcoming)
+Correa, C.; Gutierrez, C.; Turra, C. 2025. Demographic changes and intergenerational reallocations in Brazil, 2003-2018. The Journal of the Economics of Ageing, 25, 100041.
 
-Correa, C; Gutierrez, C.; Turra, C. National transfer accounts by education in Brazil: new estimates for 2018. Notas de Población. (under review)
+Correa, C; Gutierrez, C.; Turra, C. 2025. Examining educational inequality across the economic life cycle in Brazil on the basis of 2018 national transfer accounts. Notas de Población, 52(120):1-16. 
